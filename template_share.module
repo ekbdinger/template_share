@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the template_share feature.
+ */
+
+include_once 'template_share.features.inc';
